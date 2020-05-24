@@ -1,6 +1,6 @@
 ---
 layout: single
-title: about
+title: 나를 소개합니다
 permalink: /about/
 ---
 
